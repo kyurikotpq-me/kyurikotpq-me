@@ -1,10 +1,11 @@
 # My Stack-tistics
-> Basic Python, VBA, React Native
+> Basic Python, React Native
 
-> PHP, Laravel, MySQL, WordPress, NodeJS, MongoDB
+> NodeJS, MongoDB, PostgreSQL
 
-> HTML5, CSS3, Bootstrap, Javascript, jQuery, VueJS, ReactJS, Angular
+> HTML5, CSS3, Bootstrap, Javascript, jQuery, Vue, React, Angular
 
-# Fun Facts:
-- Writing is the "mistress" I've stowed away in the pursuit of my "spouses" (design and programming).
-- This repo is incomplete. What else would you like to know? Drop me a DM on [LinkedIn](https://linkedin.com/in/kyurikotpq)!
+## Tech I used to use but not so often anymore
+> PHP, Laravel, MySQL, WordPress
+
+> VBA (used this for automation work in SAP, Blue Prism & Excel)
